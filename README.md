@@ -1,4 +1,9 @@
-# SCRIPT DE GERENCIAMENTO DE USUÁRIOS E PERMISSÕES LINUX
+# 🐧 SCRIPT DE GERENCIAMENTO DE USUÁRIOS E PERMISSÕES LINUX
+Este repositório contém um script em Bash desenvolvido para automatizar a criação de diretórios, grupos e usuários em sistemas Linux, além de configurar permissões de forma organizada e segura.
+
+O objetivo é facilitar a administração de usuários e acessos em ambientes multiusuários, garantindo boas práticas de segurança.
+
+##  Passo a Passo de Utilização
 
 ### 1° PASSO:
 
@@ -7,8 +12,6 @@ FAZER O LOGIN COMO USUÁRIO ROOT
 ```bash
 sudo su
 ```
-
-## CRIAÇÃO DO SCRIPT
 
 ### 2° PASSO:
 
@@ -26,7 +29,7 @@ nano iac1.sh
 
 ## CONTEÚDO DO SCRIPT
 
-4° PASSO:
+### 4° PASSO:
 
 EXECUTANDO O SCRIPT:
 
